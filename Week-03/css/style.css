@@ -1,0 +1,110 @@
+
+header {
+    position: fixed;
+    background-color: #373867;
+    margin-left: 159px;
+    top: 0;
+    width: 1920px;
+    height: 100px;
+ }
+.button {
+    position: relative;
+    height: 35px;
+    bottom: 35px;
+    left: 80px;
+ }
+.tittle {
+    position: relative;
+    width: 355px;
+    left: 84px;
+ }
+ .box1{
+    position: fixed;
+    background-color: #373867;
+    height: 100%;
+    width: 235px;
+    top: 0;
+    left: 0;
+    
+ }
+ aside li {
+    border-bottom: 2px solid white;
+    text-decoration: none;
+    list-style: none;
+    font-size: 35px;
+    color: #c4c4c4;
+    padding-top: 30px;
+    right: 15px;
+    width: 109px;
+    display: inline-block;
+ }
+
+ aside li:nth-child(4) {
+
+    color:#46a37c;
+    text-decoration: none;
+    border-bottom: 0px;
+ }
+ main {
+    padding-left: 279px;
+    padding-top: 110px;
+ }
+ .logo-nav{
+    position: relative;
+    left: 57px;
+    top: 26px;
+ }
+ .arrowbar {
+    position: relative;
+    left: 13px;
+    bottom: 4px;
+ }
+ .touch {
+    color:#46a37b;
+    padding-top: 20px;
+    border-bottom: 2px solid green;
+    font-size: 20px;
+    width: 109px;
+ }
+ .word1 {
+    position: relative;
+    color: #c4c4c4;
+    left: 42px;
+    bottom: 46px;
+    border-bottom: 2px solid #c4c4c4; width: 150px;
+ }
+ .word2 {
+    position: relative;
+    color: #c4c4c4;
+    left: 40px;
+    bottom: 39px;
+    border-bottom: 2px solid #c4c4c4;
+    width: 148px;
+ }
+ .word3 {
+    position: relative;
+    color: #c4c4c4;
+    left: 40px;
+    bottom: 54px;
+    border-bottom: 2px solid #c4c4c4;
+    width: 147px;
+ }
+ span h1 {
+    color: #2f3058;
+ }
+ main h1 {
+    color: #2f3058;
+    font-size: 55px
+ }
+ main h2 {
+    color: #2f3058;
+    padding-bottom: 26px;
+ }
+ span h2 {
+    font-size: 30px;
+ }
+
+
+ 
+
+
