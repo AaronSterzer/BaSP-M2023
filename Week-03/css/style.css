@@ -84,25 +84,96 @@ header {
  .word3 {
     position: relative;
     color: #c4c4c4;
-    left: 40px;
-    bottom: 54px;
+    left: 42px;
+    bottom: 47px;
     border-bottom: 2px solid #c4c4c4;
-    width: 147px;
+    width: 150px;
+    font-size: 14px;
  }
- span h1 {
-    color: #2f3058;
+ .main-div {
+   height: 800px;
+   position: relative;
+   display: block;
+   z-index: -1;
+  }
+  
+  .main-div h1 span{
+   color: rgb(55, 56, 103, 75%)
+  }
+  
+ .main-div h2 span{
+   font-weight: 100;
  }
- main h1 {
-    color: #2f3058;
-    font-size: 55px
+ .main-text {
+   position: absolute;
+   font-family: "Roboto", Arial, Helvetica, sans-serif;
+   font-size: 18px;
+   display: inline-block;
+   width: 700px;
+   left: 90px;
+   top: 50px; 
  }
- main h2 {
-    color: #2f3058;
-    padding-bottom: 26px;
+ .main-text h1{
+   color: #373867;
+   font-size: 60px;
  }
- span h2 {
-    font-size: 30px;
+ .main-text h2 {
+   color: #373867;
+   font-size: 25px;
  }
+ .main-div p {
+   width: 500px;
+ }
+ .main-div img {
+   position: absolute;
+   right: 100px;
+   display: inline-block; 
+   margin-right: 100px;
+   top: 80px;
+   
+ }
+ .meet-us {
+   position: relative;
+   color: #373867;
+   font-size: 34px;
+   font-family: "Roboto", Arial, Helvetica, sans-serif;
+ }
+ .meet-us section{
+   position: relative;
+ }
+ .text-box p {
+   margin-left: 40px;
+   color: #979797;
+   width: 300px;
+ }
+ .text-box p {
+   font-size: 18px;
+ }
+ .allarticles h3 {
+   color: #373867;
+   font-size: 25px;
+   font-family: "Roboto", Arial, Helvetica, sans-serif;
+   margin-left: 40px;
+   width: 500px;
+ }
+ .allarticles {
+   display: flex;
+   justify-content: space-between;
+   width: 80%;
+   margin-bottom: 100px;
+ }
+ .img-text-combo {
+   display: flex;
+ }
+   
+
+ 
+
+ 
+
+  
+    
+ 
 
 
  
