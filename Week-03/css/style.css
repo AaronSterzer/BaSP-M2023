@@ -281,9 +281,90 @@ button[type=submit] {
  .image-family {
   position: absolute;
   display: inline-block;
-  right: 100px;
-  
- }
+  right: 300px;
+  top: 600px;
+  height: 400px;
+}
+.tittle-family {
+  position: absolute;
+  top: 850px;
+}
+.third-paragraph {
+  position: absolute;
+  color: #6d6d6d;
+  font-size: 25px;
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+  margin-left: 40px;
+  display: inline-block;
+  width: 639px;
+  bottom: 153px;
+  right: 762px;
+}
+.section {
+  position: relative;
+  height: 1000px;
+  width: 1500px;
+}
+
+.section h2 {
+  position: relative;
+  font-size: 50px;
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+  color: #373867; 
+  top: 10px;
+}
+.activities {
+  position: relative;
+  border-style: solid; width: 430px; color: #49a37b;
+  display: flex;
+  height: 200px;
+}
+.activities h3 {
+  position: relative;
+  color: #373867;
+  font-size: 35px;
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+  left: 23px;
+  bottom: 22px;
+}
+.activities ol {
+  position: relative;
+  color: #373867;
+  font-size: 20px;
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+  bottom: 43px;
+}
+
+.section-2 {
+  position: absolute;
+  border-style: solid;
+  width: 430px;
+  color: #49a37b;
+  top: 100px;
+  display: flex;
+  left: 550px;
+  height: 204px;
+  width: 435px;
+}
+
+.section-2 h3 {
+  position: relative;
+  color: #373867;
+  font-size: 35px;
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+  top: -24px;
+  left: 20px;
+}
+.section-2 ol {
+  position: relative;
+  color: #373867;
+  font-size: 20px;
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+  bottom: 39px;
+}
+
+
+
 
 
 
@@ -295,12 +376,36 @@ button[type=submit] {
 
 
 .main-footer {
+  position: relative;
+  background-color: #2c2c3a;
+  text-align: center;
+  padding: 20px;
+  margin-top: 40px;
+}
+.footer-paragraph {
+  background-color: #2c2c3a;
+  color: #49a37b;
+  text-align: center;
+  padding: 20px;
+  margin-top: 40px;
+}
+
+
+
+
+
+
+
+
+
+/*.main-footer {
   background-color: #2C2C3A;
   color:#49A37B;
   text-align: center;
   padding: 20px;
   margin-top: 40px;
  }
+ */
 
 
 
