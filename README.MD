@@ -48,6 +48,17 @@ This week started with the material asynchronous and the class of tutors then we
   
   ### The end of tutorial.
 
+  ```
+  Week 3 (Incorporating Css in HTML)
+  ```
+- For start with CSS you have create a HTML code.
+- Cover all about semantic part with HTML.
+- Next you gonna practice and learn about CSS.
+- This videos i recommend you: Begginer [1](https://www.youtube.com/watch?v=yfoY53QXEnI&ab_channel=TraversyMedia), Inspect f12 [2](https://www.youtube.com/watch?v=vs63yeOkT3I&ab_channel=ITeachBlogging), Practice [3](https://www.w3schools.com/css/default.asp).
+- With this tools you can start with CSS, but i recommend create a HTML code and practice your "skills" about style CSS.
+- Keep in mind if you work on a HTML code and insert CSS you will have to modify it.
+- Finally Keep in mind "have good practices", this is an [example](https://drive.google.com/file/d/14iiFRQUHb2dJYh-9injrDomw6Hq-HfEp/view).
+ 
 
 
 

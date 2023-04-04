@@ -236,6 +236,57 @@ button[type=submit] {
   width: 120px;
   margin: 15px;
 }
+.about-us {
+  position: relative;
+  height: 1200px;
+  width: 1400px;
+  display: block;
+}
+.about-us h2 {
+  color: #373867;
+  font-size: 34px;
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+  height: 57px;
+}
+.first-text {
+  height: 400px;
+  color: #6d6d6d;
+  font-size: 25px;
+  font-family: "Roboto,", Arial, Helvetica, sans-serif;
+  width: 1000px;
+}
+.two {
+  position: relative;
+  bottom: 100px;
+}
+.two p {
+  color: #6d6d6d;
+  font-size: 25px;
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+  margin-left: 40px;
+  display: inline-block;
+}
+.order-text{
+  display: inline-block;
+  width: 1000px;
+}
+.paragraph-size {
+  width: 300px;
+}
+.image-us {
+  position: relative;
+  bottom: 100px;
+}
+
+ .image-family {
+  position: absolute;
+  display: inline-block;
+  right: 100px;
+  
+ }
+
+
+
 
 
 
