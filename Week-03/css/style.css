@@ -6,6 +6,7 @@ header {
     top: 0;
     width: 1920px;
     height: 100px;
+    z-index: 1;
  }
 .button {
     position: relative;
@@ -165,6 +166,94 @@ header {
  .img-text-combo {
    display: flex;
  }
+ .box3 {
+  position:relative;
+  width: 1205px;
+  height: 1000px;
+ }
+ .box3 h2{
+  color: #373867;
+  font-size: 34px;
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+ }
+.input {
+  display: inline-block;
+  width: 600px;
+  margin-top: 30px;
+}
+label {
+  display: block;
+  color: #373867;
+  font-size: 24px;
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+input[type=text] {
+  width: 550px;
+  height: 35px;
+  padding: 12px;
+  display:inline-block;
+  border: 1px solid #373867;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+ .box3-list {
+  margin-top: 50px;
+
+ }
+ .box3-list p {
+  position: relative;
+  left: 25px;
+  bottom: 21px;
+  margin: 0;
+}
+textarea {
+  width: 1140px;
+  height: 180px;
+}
+.buttons {
+  position: absolute;
+  right: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+
+}
+
+
+button[type=submit] {
+  background-color: #373867;
+  color:#ffffff;
+  height: 42px;
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+  width: 150px;
+}
+.reset {
+  height: 42px;
+  width: 120px;
+  margin: 15px;
+}
+
+
+
+
+
+
+
+.main-footer {
+  background-color: #2C2C3A;
+  color:#49A37B;
+  text-align: center;
+  padding: 20px;
+  margin-top: 40px;
+ }
+
+
+
+
    
 
  
