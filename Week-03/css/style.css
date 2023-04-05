@@ -338,7 +338,6 @@ button[type=submit] {
 .section-2 {
   position: absolute;
   border-style: solid;
-  width: 430px;
   color: #49a37b;
   top: 100px;
   display: flex;
@@ -362,6 +361,62 @@ button[type=submit] {
   font-family: "Roboto", Arial, Helvetica, sans-serif;
   bottom: 39px;
 }
+.section-3 {
+  position: relative;
+  border-style: solid;
+  width: 430px;
+  color: #49a37b;
+  display: flex;
+  top: 80px;
+  height: 204px;
+}
+.section-3 h3 {
+  position: relative;
+  color: #373867;
+  font-size: 35px;
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+  top: -12px;
+  left: 22px;
+}
+.section-3 ol {
+  position: relative;
+  color: #373867;
+  font-size: 20px;
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+  bottom: 9px;
+}
+.section-4 {
+  position: relative;
+  border-style: solid;
+  width: 435px;
+  color: #49a37b;
+  display: flex;
+  left: 550px;
+  height: 204px;
+  top: -130px;
+  width: 435px;
+}
+.section-4 h3 {
+  left: 28px;
+  position: relative;
+  display: flex;
+  color: rgb(55, 56, 103);
+  font-size: 35px;
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+  bottom: 36px;
+}
+.section-4 ol {
+  position: relative;
+  color: #373867;
+  font-size: 20px;
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+  right: 173px;
+  top: 86px;
+}
+
+
+
+
 
 
 
